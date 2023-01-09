@@ -665,6 +665,10 @@ body {
   margin-right: 120px;
 }
 
+.social{
+  margin-right: auto;
+}
+
 .social-title,
 .subscription-title {
   margin-bottom: 12px;
