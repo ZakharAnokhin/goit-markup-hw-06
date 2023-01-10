@@ -987,4 +987,6 @@ padding: 72px 24px 24px;
 .order-form-btn {
   display: block;
   margin: 0 auto;
+  width: 169px;
+  height: 56px;
 }
